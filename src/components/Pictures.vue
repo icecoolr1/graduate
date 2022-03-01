@@ -13,7 +13,7 @@
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">欢迎来到<span><a style="color: #cff4fc">Idea</a></span><span><a style="color: #0dcaf0">School</a></span></h2>
                 <p class="animate__animated animate__fadeInUp">尽精微，致广大</p>
-                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Read More</a>
+                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">加入我们</a>
               </div>
             </div>
           </div>
@@ -24,7 +24,7 @@
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">卷</h2>
                 <p class="animate__animated animate__fadeInUp">是一种态度</p>
-                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Read More</a>
+                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">加入我们</a>
               </div>
             </div>
           </div>
@@ -35,7 +35,7 @@
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">学</h2>
                 <p class="animate__animated animate__adeInUp">是一种活法</p>
-                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Read More</a>
+                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">加入我们</a>
               </div>
             </div>
           </div>

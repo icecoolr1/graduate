@@ -7,23 +7,23 @@
 
         <div class="row content">
           <div class="col-lg-6">
-            <h2>Eum ipsam laborum deleniti velitena</h2>
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assum perenda sruen jonee trave</h3>
+            <h2>定制您的学习路线</h2>
+            <h3>不积跬步，无以至千里；不积小流，无以成江海。</h3>
+            <h3>非学无以广才，非志无以成学。</h3>
+            <h3>天行健，君子当自强不息。</h3>
+            <h3>精益求精。</h3>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequa</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in</li>
+              <li><i class="ri-check-double-line"></i> 高个性化的学习路线</li>
+              <li><i class="ri-check-double-line"></i> 名师24小时在线辅导</li>
+              <li><i class="ri-check-double-line"></i> 优秀课程全程免费</li>
             </ul>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+             除了学习，您无需担心任何事情，课后服务以及家庭教育资源包含了科普教育、体育锻炼、文化艺术、经典阅读、研学实践、影视教育、家庭教育观念、家庭教育方法、家庭教育指导等方面的内容，进一步凸显了服务“双减”工作的需要。
             </p>
           </div>
         </div>
@@ -39,23 +39,23 @@
           <div class="col-lg-6 order-2 order-lg-1">
             <div class="icon-box mt-5 mt-lg-0">
               <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+              <h4>无广告</h4>
+              <p>本平台无任何第三方宣传即推广。</p>
             </div>
             <div class="icon-box mt-5">
               <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+              <h4>优质资源</h4>
+              <p>金牌导师云集，打造云原生时代新智库。</p>
             </div>
             <div class="icon-box mt-5">
               <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+              <h4>海量课程</h4>
+              <p>汇集互联网优质教育课程，源于社区，奉献社区。</p>
             </div>
             <div class="icon-box mt-5">
               <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+              <h4>安全防护</h4>
+              <p>注重用户隐私，本网站不使用cookie。</p>
             </div>
           </div>
           <div id="missing" class="image col-lg-6 order-1 order-lg-2" ></div>
@@ -69,30 +69,34 @@
       <div class="container position-relative">
 
         <div class="text-center title">
-          <h3>What we have achieved so far</h3>
-          <p>Iusto et labore modi qui sapiente xpedita tempora et aut non ipsum consequatur illo.</p>
+          <h3>平台里程碑</h3>
+          <p>支持即为动力。</p>
         </div>
 
         <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
             <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Clients</p>
+            <p>讲师数</p>
+            <p>1</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Projects</p>
+            <p>课程数</p>
+            <p>5</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Hours Of Support</p>
+            <p>学生数</p>
+            <p>22</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
             <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Hard Workers</p>
+            <p>总学习时长</p>
+            <p>500h</p>
           </div>
 
         </div>
@@ -105,9 +109,9 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Services</span>
-          <h2>Services</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <span>教学</span>
+          <h2>教学</h2>
+          <p>竭尽全力提供最优质的教学资源。</p>
         </div>
 
         <div class="row">
@@ -317,20 +321,20 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Team</span>
-          <h2>Team</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <span>师资力量</span>
+          <h2>师资力量</h2>
+          <p>金牌讲师助力成功</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-6">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="../assets/img/team/1.jpeg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <h4>孙笑川</h4>
+                <span>首席语文讲师</span>
+                <p>抽象是一门语言</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -343,11 +347,11 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="../assets/img/team/2.jpeg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                <h4>刘墉</h4>
+                <span>化学金牌导师</span>
+                <p>干净又卫生嗷，同学们</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -363,8 +367,8 @@
               <div class="pic"><img src="../assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>William Anderson</h4>
-                <span>CTO</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+                <span>特技英语讲师</span>
+                <p>Can you speak chinese?</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -377,11 +381,11 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="../assets/img/team/555.jpeg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                <h4>温迪</h4>
+                <span>魔法学导师</span>
+                <p>原来你也玩原神啊</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -406,68 +410,17 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <img src="../assets/img/testimonials/len.jpg" class="testimonial-img" alt="">
+                <h3>冷元素</h3>
+                <h4>18级软工大统领</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  我的上帝啊，我从来没有在任何平台上见过如此优质的课程资源与彬彬有礼，技术过硬的老师们。
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
             </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="../assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="../assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="../assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="../assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
 
           </div>
           <div class="swiper-pagination"></div>
@@ -480,15 +433,12 @@
     <section id="contact" class="contact">
       <div class="container">
         <div class="section-title">
-          <span>Contact</span>
-          <h2>Contact</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <span>联系我们</span>
+          <h2>联系我们</h2>
+          <p>我们迫切需要您的意见</p>
         </div>
       </div>
 
-      <div class="map">
-        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
-      </div>
 
       <div class="container">
 
@@ -496,20 +446,20 @@
           <div class="row">
             <div class="col-lg-4 info">
               <i class="ri-map-pin-line"></i>
-              <h4>Location:</h4>
-              <p>A108 Adam Street<br>New York, NY 535022</p>
+              <h4>地址:</h4>
+              <p>沈阳大街<br>New York, NY 535022</p>
             </div>
 
             <div class="col-lg-4 info mt-4 mt-lg-0">
               <i class="ri-mail-line"></i>
               <h4>Email:</h4>
-              <p>info@example.com<br>contact@example.com</p>
+              <p>qq987286912@163.com<br>wangyi@gmail.com</p>
             </div>
 
             <div class="col-lg-4 info mt-4 mt-lg-0">
               <i class="ri-phone-line"></i>
               <h4>Call:</h4>
-              <p>+1 5589 55488 51<br>+1 5589 22475 14</p>
+              <p>+86 1806148 5829</p>
             </div>
           </div>
         </div>
